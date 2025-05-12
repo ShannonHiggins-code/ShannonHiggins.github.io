@@ -70,6 +70,5 @@ images/: Folder for extension icons.
 Credits
 Programmed by: Shannon Higgins ShannonHiggins@outlook.com
 
-[Privacy Policy](https://shannonhiggins.github.io/privacy-policy.md)
 
 [Privacy Policy](./privacy-policy.md)
